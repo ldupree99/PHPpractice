@@ -35,7 +35,7 @@ function checkLogin($enteredUsername, $enteredPassword, $username, $password) {
 
 // Test the login system with both correct and incorrect inputs
 // Manually input different combinations of usernames and passwords to see if the system behaves as expected
-
+ 
 ?>
 
 </body>

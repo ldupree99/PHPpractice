@@ -10,7 +10,7 @@
     <?php
     $x = 100;
     $y = 100;
-        function boompow($x) {
+        function Money($x) {
             $newnr = $x * 0.75;
             echo "<br>Here is 75% of what you had: ".$newnr;
         }
@@ -21,8 +21,8 @@
         }
 
 
-        boompow ($x);
-        boompow($x);
+        Money ($x);
+        Money ($x);
 
         taxes($newnr);
 
